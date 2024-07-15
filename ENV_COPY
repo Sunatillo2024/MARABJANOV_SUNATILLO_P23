@@ -1,0 +1,14 @@
+TELEGRAM_BOT_TOKEN=7457840472:AAHvkypMl62fEbAA5c-wk44pfEDc6a2yA4k
+SENDER_EMAIL=sunatlohgafur1214@gmail.com
+EMAIL_PASSWORD=rvztfwesraqpbszr
+DATABASE_URL=postgresql+psycopg2://postgres:1@localhost:5432/tg_users
+TOKEN_FOR_FITNICE=6601125631:AAEVOgH_UNV2z8p2kywCerCe7rrtR6-CIMI
+TELEGRAM_BOT_TOKEN=7457840472:AAHvkypMl62fEbAA5c-wk44pfEDc6a2yA4k
+SENDER_EMAIL=sunatlohgafur1214@gmail.com
+EMAIL_PASSWORD=rvztfwesraqpbszr
+DATABASE_URL=postgresql+psycopg2://postgres:1@localhost:5432/tg_users
+TOKEN_FOR_FITNICE=6601125631:AAEVOgH_UNV2z8p2kywCerCe7rrtR6-CIMI
+
+
+
+
