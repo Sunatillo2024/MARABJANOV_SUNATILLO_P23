@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    environment:
+      - DATABASE_URL=postgresql+psycopg2://postgres:1@localhost:5432/tg_users
+      - TELEGRAM_BOT_TOKEN=7457840472:AAHvkypMl62fEbAA5c-wk44pfEDc6a2yA4k
+      - SENDER_EMAIL=sunatlohgafur1214@gmail.com
+      - EMAIL_PASSWORD=rvztfwesraqpbszr
+    ports:
+      - "8000:8000"  # Adjust port as per your application
+    restart: always
